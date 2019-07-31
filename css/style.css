@@ -1,0 +1,10 @@
+html, body {
+	text-align: center;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+h1, h2 {
+	color: darkgray;
+
+}
